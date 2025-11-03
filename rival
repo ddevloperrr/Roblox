@@ -1,0 +1,4 @@
+```lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/HexFG/duckhub/refs/heads/main/loader.lua'))()``````lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.luau"))()``````lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wzmh/PolyHub/refs/heads/main/main.lua"))()```
